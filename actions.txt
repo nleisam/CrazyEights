@@ -1,0 +1,12 @@
+CS301 This is answers.txt file
+
+List of Actions:
+- How to play button
+- Draw a card
+- Place a card
+- Drag a card
+- Difficulty button
+- Mute button
+- Start over button
+- 
+- 
